@@ -1,7 +1,33 @@
 
-GDPR fines in accessible way.
+# GDPR fines in accessible way. 
 
-Note. Initial data taken from [this](http://www.enforcementtracker.com). Currently many links may contain bogus references (i.e. serve as a proof only), some dates are missing too (XXXX-XX-XX). Probably makes sense to change those links to official announcements. Rows with faulty dates are currently below the main table. Feel free to incorporate them to the main table.
+###### *[Lukasz](https://twitter.com/lukOlejnik)*
+
+###Note
+
+* Initial data taken from [this](http://www.enforcementtracker.com). 
+* Currently many links may contain bogus references (i.e. serve as a proof only)
+* Some dates are missing too (XXXX-XX-XX). 
+* Probably makes sense to change those links to official announcements. 
+* Rows with faulty dates are currently below the main table. Feel free to incorporate them to the main table.
+* Remove descriptions? Github markup has no option to hide long text.
+
+***
+
+# Contribution Guidelines
+
+There will inevitably be a need to add new content as new decisions are announced.
+### Adding to the List
+
+- Add/modify  `README.md` file directly 
+- Make sure that the new entries are in the date order (newest - first).
+- Submit a pull request, send [me](https://twitter.com/lukOlejnik) a DM (preferrably using github markup directly), or an e-mail or something.
+
+### Removing from the List
+
+- If you have any issues accessing any of the resources listed here, please let us know.
+
+***
 
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
 | -------------- |:--------------:| :---------:|-------------:| :-------:|:-------:|:-------:|
