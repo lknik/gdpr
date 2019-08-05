@@ -41,21 +41,21 @@ There will inevitably be a need to add new content as new decisions are announce
 | THE NETHERLANDS | 2019-06-18 | 460,000 | Haga Hospital | Art. 32 GDPR |  | [link](https://autoriteitpersoonsgegevens.nl/nl/nieuws/haga-beboet-voor-onvoldoende-interne-beveiliging-pati%C3%ABntendossiers) |
 | FRANCE | 2019-06-13 | 20,000 | Employer UNIONTRAD COMPANY | Art. 5 (1) c) GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 32 GDPR |  | [link](https://www.legifrance.gouv.fr/affichCnil.do?oldAction=rechExpCnil&id=CNILTEXT000038629823&fastReqId=946473298&fastPos=1) |
 | DENMARK | 2019-06-03 | 200,850 | IDdesign A / S | Art. 5 (1) e) and (2) GDPR |  | [link](https://www.datatilsynet.dk/tilsyn-og-afgoerelser/afgoerelser/2019/jun/tilsyn-med-iddesigns-behandling-af-personoplysninger/) |
-| FRANCE | 2019-05-28 | 400,000 | SERGIC, a company specialized in real estate development, purchase, sale, rental and property management | Art. 32 and 5 (1) e) GDPR |  | [link](https://www.legifrance.gouv.fr/affichCnil.do?oldAction=rechExpCnil&id=CNILTEXT000038552658&fastReqId=119744754&fastPos=1) |
+| FRANCE | 2019-05-28 | 400,000 | SERGIC | Art. 32 and 5 (1) e) GDPR |  | [link](https://www.legifrance.gouv.fr/affichCnil.do?oldAction=rechExpCnil&id=CNILTEXT000038552658&fastReqId=119744754&fastPos=1) |
 | BELGIUM | 2019-05-28 | 2,000 | Mayor | Art. 5 (1) b) GDPR, Art. 6 GDPR |  | [link](https://www.autoriteprotectiondonnees.be/news/lautorite-de-protection-des-donnees-prononce-une-sanction-dans-le-cadre-dune-campagne) |
-| HUNGARY | 2019-05-23 | 92,146 | Organizer of SZIGET festival and VOLT festival | Art. 6 GDPR, Art. 5 (1) b) GDPR, Art. 13 GDPR |  | [link](http://www.naih.hu/files/NAIH-2019-55_hatarozat.pdf) |
-| LITHUANIA | 2019-05-16 | 61,500 | Payment service provider UAB MisterTango | Art. 5 GDPR, Art. 32 GDPR, Art. 33 GDPR |  | [link](https://www.ada.lt/go.php/lit/Imones-atsakomybes-neisvengs--lietuvoje-skirta-zenkli-bauda-uz-bendrojo-duomenu-apsaugos-reglamento-pazeidimus-/1) |
+| HUNGARY | 2019-05-23 | 92,146 | SZIGET/VOLT festival organisers | Art. 6 GDPR, Art. 5 (1) b) GDPR, Art. 13 GDPR |  | [link](http://www.naih.hu/files/NAIH-2019-55_hatarozat.pdf) |
+| LITHUANIA | 2019-05-16 | 61,500 |  UAB MisterTango | Art. 5 GDPR, Art. 32 GDPR, Art. 33 GDPR |  | [link](https://www.ada.lt/go.php/lit/Imones-atsakomybes-neisvengs--lietuvoje-skirta-zenkli-bauda-uz-bendrojo-duomenu-apsaugos-reglamento-pazeidimus-/1) |
 | CZECH REPUBLIC | 2019-05-13 | 3,105 | Unknown | Art. 5 (1) a) and b) GDPR, Art. 32 (1) GDPR |  | [link](https://www.uoou.cz/assets/File.ashx?id_org=200144&id_dokumenty=34471) |
 | GERMANY | 2019-05-09 | 1,400 | Police Officer | Art. 6 GDPR |  | [link](https://www.baden-wuerttemberg.datenschutz.de/lfdi-baden-wuerttemberg-verhaengt-erstes-bussgeld-gegen-polizeibeamten/) |
 | CZECH REPUBLIC | 2019-05-06 | 194 | Unknown | Art. 15 GDPR |  | [link](https://www.uoou.cz/assets/File.ashx?id_org=200144&id_dokumenty=34472) |
 | POLAND | 2019-04-25 | 12,950 | Sports association | Art. 6 GDPR |  | [link](https://uodo.gov.pl/pl/138/990) |
 | HUNGARY | 2019-04-17 | 9,400 | Unknown | Art. 5 (1) a) GDPR, Art. 6 GDPR |  | [link](http://www.naih.hu/files/NAIH-2019-167-hatarozat.pdf) |
-| ITALY | 2019-04-17 | 50,000 | Italian political party Movimento 5 Stelle | Art. 32 GDPR |  | [link](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9101974) |
+| ITALY | 2019-04-17 | 50,000 |  Movimento 5 Stelle | Art. 32 GDPR |  | [link](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9101974) |
 | BULGARIA | 2019-04-08 | 510 | Medical centers | Art. 5 (1) a) GDPR; Art. 9 (1) and Art. 9 (2) GDPR; Art. 6 (1) GDPR. |  | [link](https://www.cpdp.bg/?p=element_view&aid=2192) |
 | HUNGARY | 2019-04-05 | 1,900 | Unknown | Art. 15 GDPR |  | [link](http://www.naih.hu/files/NAIH_2019_133_hatarozat.pdf) |
-| HUNGARY | 2019-04-05 | 34,375 | Hugarian political party | Art. 33 (1) GDPR, Art. 33 (5) GDPR, Art. 34 (1) GDPR |  | [link](http://www.cms-lawnow.com/ealerts/2019/04/hungarian-data-authority-investigates-two-cases-of-privacy-breaches?cc_lang=en) |
+| HUNGARY | 2019-04-05 | 34,375 | Demokratikus Koaliciu | Art. 33 (1) GDPR, Art. 33 (5) GDPR, Art. 34 (1) GDPR |  | [link](https://www.naih.hu/files/NAIH-2019-2668-hatarozat.pdf) |
 | BULGARIA | 2019-03-26 | 5,100 | A.P. EOOD | Art. 5 (1) a) GDPR, Art. 6 GDPR |  | [link](https://www.cpdp.bg/?p=element_view&aid=2191) |
-| POLAND | 2019-03-26 | 219,538 | Private company working with data from publicly available sources | Art. 14 GDPR |  | [link](https://uodo.gov.pl/en/553/1009) |
+| POLAND | 2019-03-26 | 219,538 | Bisnode | Art. 14 GDPR |  | [link](https://uodo.gov.pl/en/553/1009) |
 | CZECH REPUBLIC | 2019-03-21 | 9,704 | Unknown | Art. 5 (1) c) and e) GDPR |  | [link](https://www.uoou.cz/assets/File.ashx?id_org=200144&id_dokumenty=34470) |
 | HUNGARY | 2019-03-04 | 3,200 | Unnamed financial institution | Art. 5 (1) b) and c) GDPR, Art. 13 (3) GDPR, Art. 17 (1) GDPR, Art. 6 (4) GDRP |  | [link](https://www.naih.hu/files/NAIH-2019-2526-2-H-hatarozat.pdf) |
 | HUNGARY | 2019-02-28 | 3,200 | Mayor's Office of the city of Kecdkemét | Art. 5 (1) a) GDPR, Art. 6 GDPR |  | [link](https://www.naih.hu/files/NAIH-2019-596-hatarozat.pdf) |
