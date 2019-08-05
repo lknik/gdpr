@@ -5,7 +5,7 @@
 
 ### Note
 
-* Initial data taken from [this](http://www.enforcementtracker.com). 
+* Initial data taken from [here](http://www.enforcementtracker.com), remaking. 
 * Currently many links may contain bogus references (i.e. serve as a proof only)
 * Some dates are missing too (XXXX-XX-XX). 
 * Probably makes sense to change those links to official announcements. 
