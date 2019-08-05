@@ -29,6 +29,8 @@ There will inevitably be a need to add new content as new decisions are announce
 
 ***
 
+# **List of GDPR fines**
+
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
 | -------------- |:--------------:| :---------:|-------------:| :-------:|:-------:|:-------:|
 | GREECE | 2019-07-30 | 150,000 | PWC Business Solutions | Article 5(1)(a) (b) and (c), 13 (1) c, 14 (1) c GDPR | | [link](https://www.dpa.gr/pls/portal/docs/PAGE/APDPX/ENGLISH_INDEX/NEWS/FILES/PRESS%20RELEASE%2030%20JULY_EN.DOC1) |
@@ -86,6 +88,7 @@ GDPR fines in accessible way.
 
 
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
+| -------------- |:--------------:| :---------:|-------------:| :-------:|:-------:|:-------:|
 | SPAIN | XXXX-XX-XX | 60,000 | ENDESA (energy supplyer) | Art. 5 (1) f) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00074-2019_ORI.pdf) |
 | SPAIN | XXXX-XX-XX | 27,000 | VODAFONE ESPANA, S.A.U. | Art. 5 (1) d GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00411-2018_ORI.pdf) |
 | SPAIN | XXXX-XX-XX | 60,000 | Debt collecting agancy (GESTIÓN DE COBROS, YO COBRO SL) | Art. 5 (1) f GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00121-2019_ORI.pdf) |
