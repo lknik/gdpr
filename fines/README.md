@@ -86,7 +86,7 @@ There will inevitably be a need to add new content as new decisions are announce
 | BULGARIA | 2018-12-04 | 500 | Bank | Art. 5 (1) b) GDPR, Art. 6 GDPR |  | [link](https://gdprtoolkit.eu/first-gdpr-fine-in-bulgaria/) |
 | GERMANY | 2018-11-21 | 20,000 | Knuddels.de | Art. 32 (1) a) GDPR |  | [link](https://www.baden-wuerttemberg.datenschutz.de/lfdi-baden-wuerttemberg-verhaengt-sein-erstes-bussgeld-in-deutschland-nach-der-ds-gvo/) |
 | CZECH REPUBLIC | 2018-10-25 | 388 | Unknown | Art. 15 GDPR |  | [link](https://www.uoou.cz/assets/File.ashx?id_org=200144&id_dokumenty=34468) |
-| PORTUGAL | 2018-07-17 | 400,000 | Hospital | Art. 5 (1) f) GDPR, Art. 32 GDPR |  | [link](https://www.cnpd.pt/index.asp) |
+| PORTUGAL | 2018-07-17 | 400,000 | Hospital do Barreiro | Art. 5 (1) f) GDPR, Art. 32 GDPR |  | [link](https://www.cnpd.pt/index.asp) |
 
 
 
