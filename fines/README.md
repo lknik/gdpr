@@ -56,9 +56,11 @@ There will inevitably be a need to add new content as new decisions are announce
 | BULGARIA | 2019-04-08 | 510 | Medical centers | Art. 5 (1) a) GDPR; Art. 9 (1) and Art. 9 (2) GDPR; Art. 6 (1) GDPR. |  | [link](https://www.cpdp.bg/?p=element_view&aid=2192) |
 | HUNGARY | 2019-04-05 | 1,900 | Unknown | Art. 15 GDPR |  | [link](http://www.naih.hu/files/NAIH_2019_133_hatarozat.pdf) |
 | HUNGARY | 2019-04-05 | 34,375 | Demokratikus Koaliciu | Art. 33 (1) GDPR, Art. 33 (5) GDPR, Art. 34 (1) GDPR |  | [link](https://www.naih.hu/files/NAIH-2019-2668-hatarozat.pdf) |
+| NORWAY | 2019-04-04 | 170,000 | Bergen Municipality | Art. 5 (1) f) GDPR, Art. 32 GDPR | | [link](https://www.datatilsynet.no/en/about-privacy/reports-on-specific-subjects/administrative-fine-of-170.000--imposed-on-bergen-municipality/) |
 | BULGARIA | 2019-03-26 | 5,100 | A.P. EOOD | Art. 5 (1) a) GDPR, Art. 6 GDPR |  | [link](https://www.cpdp.bg/?p=element_view&aid=2191) |
 | POLAND | 2019-03-26 | 219,538 | Bisnode | Art. 14 GDPR |  | [link](https://uodo.gov.pl/en/553/1009) |
 | CZECH REPUBLIC | 2019-03-21 | 9,704 | Unknown | Art. 5 (1) c) and e) GDPR |  | [link](https://www.uoou.cz/assets/File.ashx?id_org=200144&id_dokumenty=34470) |
+| DENMARK | 2019-03-18 | 160,000 | Taxa 4x35 | Art. 5(1) e) GDPR |  | [link](https://www.datatilsynet.dk/tilsyn-og-afgoerelser/afgoerelser/2019/mar/tilsyn-med-taxa-4x35s-behandling-af-personoplysninger/) |
 | HUNGARY | 2019-03-04 | 3,200 | Unnamed financial institution | Art. 5 (1) b) and c) GDPR, Art. 13 (3) GDPR, Art. 17 (1) GDPR, Art. 6 (4) GDRP |  | [link](https://www.naih.hu/files/NAIH-2019-2526-2-H-hatarozat.pdf) |
 | HUNGARY | 2019-02-28 | 3,200 | Mayor's Office of the city of Kecdkemét | Art. 5 (1) a) GDPR, Art. 6 GDPR |  | [link](https://www.naih.hu/files/NAIH-2019-596-hatarozat.pdf) |
 | CZECH REPUBLIC | 2019-02-28 | 582 | Unknown | Art. 5 (1) f) GDPR |  | [link](https://www.uoou.cz/assets/File.ashx?id_org=200144&id_dokumenty=34466) |
@@ -94,14 +96,11 @@ GDPR fines in accessible way.
 | SPAIN | XXXX-XX-XX | 60,000 | Debt collecting agancy (GESTIÓN DE COBROS, YO COBRO SL) | Art. 5 (1) f GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00121-2019_ORI.pdf) |
 | SPAIN | XXXX-XX-XX | 250,000 | Professional Football League (LaLiga) | Art. 5 (1) a), 7 (3) GDPR | | [link](https://www.eldiario.es/tecnologia/Agencia-Proteccion-Datos-Liga-microfono_0_908859408.html#click=https://t.co/RI3qZzucaB) |
 | SPAIN | XXXX-XX-XX | 5,000 | VODAFONE ESPANA, S.A.U. | Art. 5 (1) d) GDPR | | [link](https://www.aepd.es/resoluciones/PS-00331-2018_ORI.pdf) |
-| NORWAY | XXXX-XX-XX | 170,000 | Bergen Municipality | Art. 5 (1) f) GDPR, Art. 32 GDPR | | [link](https://www.datatilsynet.no/en/about-privacy/reports-on-specific-subjects/administrative-fine-of-170.000--imposed-on-bergen-municipality/) |
 | GERMANY | XXXX-XX-XX | 50,000 | N26 | Art. 6 GDPR | | [link](https://www.zaftda.de/tb-bundeslaender/berlin/695-tb-lfd-berlin-2018-ohne-drs-nr-vom-28-03-2019/file) |
 | GERMANY | XXXX-XX-XX | 500 | Unknown | Unknown | Unknown | [link](https://www.pingdigital.de/blog/2019/03/29/implodierende-aufsichtsbehoerden/1626) |
 | GERMANY | XXXX-XX-XX | 118 | Unknown | Art. 6 GDPR | | [link](https://indd.adobe.com/view/d639298c-3165-4e30-85d8-0730de2a3598) |
 | GERMANY | XXXX-XX-XX | 20,000 | Unknown | Art. 83 (4) a) GDPR, Art. 33 (1) GDPR, Art. 34 (1) GDPR | Late notification of a data breach and failure to notify the data subjects. | [link](https://datenschutz-hamburg.de/assets/pdf/27._Taetigkeitsbericht_Datenschutz_2018_HmbBfDI.pdf) | | [link](https://twitter.com/lfdi_bw/status/1128555372384522240) |
-| DENMARK | XXXX-XX-XX | 160,000 | Taxa 4x35 | Art. 5(1) e) GDPR |  | [link](https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2019/mar/datatilsynet-indstiller-taxaselskab-til-boede-paa-1-2-mio-kr/) |
-| CYPRUS | XXXX-XX-XX | 10,000 | Newspapaer | Art. 6 GDPR |  | [link](https://www.agplaw.com/cyprus-gdpr-commissioner-fines-newspaper-and-hospital/) |
-| CYPRUS | XXXX-XX-XX | 5,000 | State Hospital | Art. 15 GDPR |  | [link](https://www.agplaw.com/cyprus-gdpr-commissioner-fines-newspaper-and-hospital/) |
+| CYPRUS | XXXX-XX-XX | 10,000 | Newspaper | Art. 6 GDPR |  | [link](https://www.agplaw.com/cyprus-gdpr-commissioner-fines-newspaper-and-hospital/) |
+| CYPRUS | 2018-11-07 | 5,000 | State Hospital | Art. 15 GDPR |  | [link](http://www.privacyminders.com/news/archibishop-makarios-hospital-fine/) |
 | AUSTRIA | XXXX-XX-XX | 300 | Private car owner | Unknown | A Dashcam was unlawfully used. No further information available. | [link](https://www.derstandard.de/story/2000092017999/erst-vier-strafen-wegen-dsgvo-seit-mai) |
-| AUSTRIA | XXXX-XX-XX | unknown | Restaurant | Unknown | CCTV was unlawfully used. No further information available. | [link](https://www.derstandard.de/story/2000092017999/erst-vier-strafen-wegen-dsgvo-seit-mai) |
 | AUSTRIA | XXXX-XX-XX | 1,800 | Kebab restaurant | Unknown | CCTV was unlawfully used. No further information available. | [link](https://www.derstandard.de/story/2000092017999/erst-vier-strafen-wegen-dsgvo-seit-mai) |
