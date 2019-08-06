@@ -90,8 +90,7 @@ There will inevitably be a need to add new content as new decisions are announce
 
 
 
-GDPR fines in accessible way.
-
+## Some faulty items below. Feel free to correct/amend to eventually move above.
 
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
 | -------------- |:--------------:| :---------:|-------------:| :-------:|:-------:|:-------:|
