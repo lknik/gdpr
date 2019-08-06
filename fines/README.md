@@ -30,7 +30,7 @@ There will inevitably be a need to add new content as new decisions are announce
 
 ***
 
-![](GDPRfines_ct0819.png)
+![](GDPRfines0819.png)
 
 # **List of GDPR fines**
 
