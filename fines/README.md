@@ -30,6 +30,8 @@ There will inevitably be a need to add new content as new decisions are announce
 
 ***
 
+![](GDPRfines_ct0819.png)
+
 # **List of GDPR fines**
 
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
