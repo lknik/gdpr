@@ -11,6 +11,7 @@
 * Probably makes sense to change those links to official announcements. 
 * Rows with faulty dates are currently below the main table. Feel free to incorporate them to the main table.
 * Column description is blank because Github markup has no option to hide long text. Maybe include numbers of affected data subjects?
+* This is not a *complete enforcement list* because most are not announced in public
 
 ***
 
@@ -80,10 +81,11 @@ There will inevitably be a need to add new content as new decisions are announce
 | HUNGARY | 2018-12-18 | 3,200 | Unknown | Art. 12 (4) GDPR, Art. 15 GDPR, Art. 18 (1) c) GDPR, Art. 13 GDPR |  | [link](https://www.naih.hu/files/NAIH-2018-5559-H-hatarozat.pdf) |
 | GERMANY | 2018-12-17 | 5,000 | Kolibri Image Regina und Dirk Maass GbR | Art. 28 (3) GDPR |  | [link](https://www.heise.de/newsticker/meldung/DSGVO-5000-Euro-Bussgeld-fuer-fehlenden-Auftragsverarbeitungsvertrag-4282737.html) |
 | AUSTRIA | 2018-12-09 | 4,800 | Betting place | Art. 13 GDPR |  | [link](https://www.dsb.gv.at/documents/22758/116802/Straferkenntnis+DSB-D550.038+0003-DSB+2018.pdf/fb0bb313-8651-44ac-a713-c286d83e3f19) |
+| BULGARIA | 2018-12-04 | 500 | Bank | Art. 5 (1) b) GDPR, Art. 6 GDPR |  | [link](https://gdprtoolkit.eu/first-gdpr-fine-in-bulgaria/) |
 | GERMANY | 2018-11-21 | 20,000 | Knuddels.de | Art. 32 (1) a) GDPR |  | [link](https://www.baden-wuerttemberg.datenschutz.de/lfdi-baden-wuerttemberg-verhaengt-sein-erstes-bussgeld-in-deutschland-nach-der-ds-gvo/) |
 | CZECH REPUBLIC | 2018-10-25 | 388 | Unknown | Art. 15 GDPR |  | [link](https://www.uoou.cz/assets/File.ashx?id_org=200144&id_dokumenty=34468) |
 | PORTUGAL | 2018-07-17 | 400,000 | Hospital | Art. 5 (1) f) GDPR, Art. 32 GDPR |  | [link](https://www.cnpd.pt/index.asp) |
-| BULGARIA | 2018-04-12 | 500 | Bank | Art. 5 (1) b) GDPR, Art. 6 GDPR |  | [link](https://gdprtoolkit.eu/first-gdpr-fine-in-bulgaria/) |
+
 
 
 GDPR fines in accessible way.
