@@ -36,7 +36,7 @@ There will inevitably be a need to add new content as new decisions are announce
 
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
 | -------------- |:--------------:| :---------:|-------------:| :-------:|:-------:|:-------:|
-|ROMANIA | 2019-08-07 | 2,500 | UTTIS INDUSTRIES SRL | art. 12, 5(1)(c), 6 | | [link](https://www.dataprotection.ro/?page=A_patra_amenda&lang=ro) |
+|ROMANIA | 2019-08-06 | 2,500 | UTTIS INDUSTRIES SRL | art. 12, 5(1)(c), 6 | | [link](https://www.dataprotection.ro/?page=A_patra_amenda&lang=ro) |
 | GREECE | 2019-07-30 | 150,000 | PWC Business Solutions | Article 5(1)(a) (b) and (c), 13 (1) c, 14 (1) c GDPR | | [link](https://www.dpa.gr/pls/portal/docs/PAGE/APDPX/ENGLISH_INDEX/NEWS/FILES/PRESS%20RELEASE%2030%20JULY_EN.DOC1) |
 | FRANCE | 2019-07-25 | 180,000 | ACTIVE ASSURANCES (car insurer) | Art. 32 GDPR |  | [link](https://www.legifrance.gouv.fr/affichCnil.do?id=CNILTEXT000038810992) |
 | UNITED KINGDOM | 2019-07-09 | 110,390,200 | Marriott International, Inc | Art. 32 GDPR |  | [link](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2019/07/statement-intention-to-fine-marriott-international-inc-more-than-99-million-under-gdpr-for-data-breach/) |
