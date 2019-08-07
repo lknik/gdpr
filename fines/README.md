@@ -59,14 +59,14 @@ There will inevitably be a need to add new content as new decisions are announce
 | ITALY | 2019-04-17 | 50,000 |  Movimento 5 Stelle | Art. 32 GDPR |  | [link](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9101974) |
 | BULGARIA | 2019-04-08 | 510 | Medical centers | Art. 5 (1) a) GDPR; Art. 9 (1) and Art. 9 (2) GDPR; Art. 6 (1) GDPR. |  | [link](https://www.cpdp.bg/?p=element_view&aid=2192) |
 | HUNGARY | 2019-04-05 | 1,900 | Unknown | Art. 15 GDPR |  | [link](http://www.naih.hu/files/NAIH_2019_133_hatarozat.pdf) |
-| HUNGARY | 2019-04-05 | 34,375 | Demokratikus Koaliciu | Art. 33 (1) GDPR, Art. 33 (5) GDPR, Art. 34 (1) GDPR |  | [link](https://www.naih.hu/files/NAIH-2019-2668-hatarozat.pdf) |
+| HUNGARY | 2019-04-05 | 34,375 | Demokratikus Koalició | Art. 33 (1) GDPR, Art. 33 (5) GDPR, Art. 34 (1) GDPR |  | [link](https://www.naih.hu/files/NAIH-2019-2668-hatarozat.pdf) |
 | NORWAY | 2019-04-04 | 170,000 | Bergen Municipality | Art. 5 (1) f) GDPR, Art. 32 GDPR | | [link](https://www.datatilsynet.no/en/about-privacy/reports-on-specific-subjects/administrative-fine-of-170.000--imposed-on-bergen-municipality/) |
 | BULGARIA | 2019-03-26 | 5,100 | A.P. EOOD | Art. 5 (1) a) GDPR, Art. 6 GDPR |  | [link](https://www.cpdp.bg/?p=element_view&aid=2191) |
 | POLAND | 2019-03-26 | 219,538 | Bisnode | Art. 14 GDPR |  | [link](https://uodo.gov.pl/en/553/1009) |
 | CZECH REPUBLIC | 2019-03-21 | 9,704 | Unknown | Art. 5 (1) c) and e) GDPR |  | [link](https://www.uoou.cz/assets/File.ashx?id_org=200144&id_dokumenty=34470) |
 | DENMARK | 2019-03-18 | 160,000 | Taxa 4x35 | Art. 5(1) e) GDPR |  | [link](https://www.datatilsynet.dk/tilsyn-og-afgoerelser/afgoerelser/2019/mar/tilsyn-med-taxa-4x35s-behandling-af-personoplysninger/) |
 | HUNGARY | 2019-03-04 | 3,200 | Unnamed financial institution | Art. 5 (1) b) and c) GDPR, Art. 13 (3) GDPR, Art. 17 (1) GDPR, Art. 6 (4) GDRP |  | [link](https://www.naih.hu/files/NAIH-2019-2526-2-H-hatarozat.pdf) |
-| HUNGARY | 2019-02-28 | 3,200 | Mayor's Office of the city of Kecdkemét | Art. 5 (1) a) GDPR, Art. 6 GDPR |  | [link](https://www.naih.hu/files/NAIH-2019-596-hatarozat.pdf) |
+| HUNGARY | 2019-02-28 | 3,200 | Mayor's Office of the city of Kecskemét | Art. 5 (1) a) GDPR, Art. 6 GDPR |  | [link](https://www.naih.hu/files/NAIH-2019-596-hatarozat.pdf) |
 | CZECH REPUBLIC | 2019-02-28 | 582 | Unknown | Art. 5 (1) f) GDPR |  | [link](https://www.uoou.cz/assets/File.ashx?id_org=200144&id_dokumenty=34466) |
 | CZECH REPUBLIC | 2019-02-26 | 776 | Unknown | Art. 15 GDPR |  | [link](https://www.uoou.cz/assets/File.ashx?id_org=200144&id_dokumenty=34469) |
 | BULGARIA | 2019-02-26 | 27,100 | Telecommunication service provider | Art. 6 GDPR, Art. 5 (1) a) GDPR |  | [link](https://www.cpdp.bg/?p=element_view&aid=2180) |
