@@ -93,6 +93,8 @@ There will inevitably be a need to add new content as new decisions are announce
 
 ## Some faulty items below. Feel free to correct/amend to eventually move above.
 
+* for example in case of Spain no precise dates are known (not announced in the DPA decisions), the month is provisional
+
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
 | -------------- |:--------------:| :---------:|-------------:| :-------:|:-------:|:-------:|
 | SPAIN | 2019-08-XX | 60,000 | AVON COSMETICS, S.A.U. | Art. 6 GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00159-2019_ORI.pdf) |
