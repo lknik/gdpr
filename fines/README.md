@@ -93,7 +93,7 @@ There will inevitably be a need to add new content as new decisions are announce
 
 ## Some faulty items below. Feel free to correct/amend to eventually move above.
 
-* for example in case of Spain no precise dates are known (not announced in the DPA decisions), the month is provisional
+* for example in case of Spain no precise dates are known (not announced in the DPA decisions), the month is provisional (see https://github.com/lknik/gdpr/pull/6)
 
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
 | -------------- |:--------------:| :---------:|-------------:| :-------:|:-------:|:-------:|
