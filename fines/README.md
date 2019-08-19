@@ -93,13 +93,26 @@ There will inevitably be a need to add new content as new decisions are announce
 
 ## Some faulty items below. Feel free to correct/amend to eventually move above.
 
+* for example in case of Spain no precise dates are known (not announced in the DPA decisions), the month is provisional
+
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
 | -------------- |:--------------:| :---------:|-------------:| :-------:|:-------:|:-------:|
-| SPAIN | XXXX-XX-XX | 60,000 | ENDESA (energy supplyer) | Art. 5 (1) f) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00074-2019_ORI.pdf) |
-| SPAIN | XXXX-XX-XX | 27,000 | VODAFONE ESPANA, S.A.U. | Art. 5 (1) d GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00411-2018_ORI.pdf) |
-| SPAIN | XXXX-XX-XX | 60,000 | Debt collecting agancy (GESTIÓN DE COBROS, YO COBRO SL) | Art. 5 (1) f GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00121-2019_ORI.pdf) |
-| SPAIN | XXXX-XX-XX | 250,000 | Professional Football League (LaLiga) | Art. 5 (1) a), 7 (3) GDPR | | [link](https://www.eldiario.es/tecnologia/Agencia-Proteccion-Datos-Liga-microfono_0_908859408.html#click=https://t.co/RI3qZzucaB) |
-| SPAIN | XXXX-XX-XX | 5,000 | VODAFONE ESPANA, S.A.U. | Art. 5 (1) d) GDPR | | [link](https://www.aepd.es/resoluciones/PS-00331-2018_ORI.pdf) |
+| SPAIN | 2019-08-XX | 60,000 | AVON COSMETICS, S.A.U. | Art. 6 GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00159-2019_ORI.pdf) |
+| SPAIN | 2019-08-XX | 30,000 | VODAFONE ESPANA, S.A.U. | Art. 5 (1) f) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00205-2019_ORI.pdf) |
+| SPAIN | 2019-07-XX | 22,800 | BANCO BILBAO VIZCAYA ARGENTARIA, S.A. (BBVA) | Art. 6 (1) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00147-2019_ORI.pdf) |
+| SPAIN | 2019-07-XX | 4,800 | AMADOR RECREATIVOS, S.L. (SALÓN DE
+JUEGOS TIKI TAKA) | Art. 5 (1) c) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00135-2019_ORI.pdf) |
+| SPAIN | 2019-07-XX | 36,000 | VODAFONE ESPANA, S.A.U. | Art. 5 (1) f) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00215-2019_ORI.pdf) |
+| SPAIN | 2019-07-XX | 21,000 | VODAFONE ESPANA, S.A.U. | Art. 6 (1) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00087-2019_ORI.pdf) |
+| SPAIN | 2019-07-XX | 40,000 | VODAFONE ESPANA, S.A.U. | Art. 6 (1) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00064-2019_ORI.pdf) |
+| SPAIN | 2019-07-XX | 60,000 | XFERA MÓVILES, S.A. (YOIGO) | Art. 5 (1) d) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00011-2019_ORI.pdf) |
+| SPAIN | 2019-06-XX | 36,000 | VODAFONE ESPANA, S.A.U. | Art. 6 (1) a) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00056-2019_ORI.pdf) |
+| SPAIN | 2019-06-XX | 60,000 | Debt collecting agancy (GESTIÓN DE COBROS, YO COBRO SL) | Art. 5 (1) f GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00121-2019_ORI.pdf) |
+| SPAIN | 2019-06-XX | 250,000 | Professional Football League (LaLiga) | Art. 5 (1) a), 7 (3) GDPR | | [link](https://www.aepd.es/resoluciones/PS-00326-2018_ORI.pdf) |
+| SPAIN | 2019-05-XX | 27,000 | VODAFONE ONO, S.A.U. | Art. 5 (1) f) GDPR | | [link](https://www.aepd.es/resoluciones/PS-00092-2019_ORI.pdf) |
+| SPAIN | 2019-05-XX | 60,000 | ENDESA (energy supplyer) | Art. 5 (1) f) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00074-2019_ORI.pdf) |
+| SPAIN | 2019-04-XX | 27,000 | VODAFONE ESPANA, S.A.U. | Art. 5 (1) d) GDPR | | [link](https://www.aepd.es/resoluciones/PS-00411-2018_ORI.pdf) |
+| SPAIN | 2019-03-XX | 5,000 | VODAFONE ESPANA, S.A.U. | Art. 5 (1) d) GDPR | | [link](https://www.aepd.es/resoluciones/PS-00331-2018_ORI.pdf) |
 | GERMANY | XXXX-XX-XX | 50,000 | N26 | Art. 6 GDPR | | [link](https://www.zaftda.de/tb-bundeslaender/berlin/695-tb-lfd-berlin-2018-ohne-drs-nr-vom-28-03-2019/file) |
 | GERMANY | XXXX-XX-XX | 500 | Unknown | Unknown | Unknown | [link](https://www.pingdigital.de/blog/2019/03/29/implodierende-aufsichtsbehoerden/1626) |
 | GERMANY | XXXX-XX-XX | 118 | Unknown | Art. 6 GDPR | | [link](https://indd.adobe.com/view/d639298c-3165-4e30-85d8-0730de2a3598) |
