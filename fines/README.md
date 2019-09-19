@@ -36,6 +36,7 @@ There will inevitably be a need to add new content as new decisions are announce
 
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
 | -------------- |:--------------:| :---------:|-------------:| :-------:|:-------:|:-------:|
+|POLAND | 2019-09-19 | 660 000 | Morele.net | 5 6 7 24 25 32 |  | [link](https://uodo.gov.pl/decyzje/ZSPR.421.2.2019) |
 |BULGARIA | 2019-08-29 | 2,600,000 | National Revenue Agency | | | [link](https://www.novinite.com/articles/199793/) |
 | SWEDEN | 2019-08-20 | 18,600 | Municipality of Skellefteå | art. 5, 9, 35, 36  |  | [link](https://www.datainspektionen.se/nyheter/sanktionsavgift-for-ansiktsigenkanning-i-skola/) |
 |ROMANIA | 2019-08-06 | 2,500 | UTTIS INDUSTRIES SRL | art. 12, 5(1)(c), 6 | | [link](https://www.dataprotection.ro/?page=A_patra_amenda&lang=ro) |
